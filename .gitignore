@@ -6,7 +6,7 @@ venv/
 db.sqlite3
 .env
 .DS_Store
-
+game_chat/media
 
 
 # C extensions
